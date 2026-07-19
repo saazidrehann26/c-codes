@@ -33,3 +33,4 @@ int main() {
 
     return 0;
 }
+//we need to put input with space like this 1 2 3
